@@ -1,0 +1,50 @@
+REQUIREMENTS: TEST-2
+Generated: April 8, 2026
+
+SUMMARY
+UI requirements
+
+FULL DESCRIPTION
+================================================================================  
+DISCOVERY PLATFORM - LOGIN PAGE REQUIREMENTS  
+================================================================================
+
+PROJECT: Discovery Platform Login Interface  
+POWERED BY: Changepond  
+DATE: 2025
+
+================================================================================  
+1. LAYOUT STRUCTURE  
+================================================================================
+
+Two-Column Layout:  
+- Left Panel: Blue branded section (~45% width)  
+- Right Panel: White login form section (~55% width)  
+- Responsive: Stack to single column on mobile devices
+
+================================================================================  
+2. LEFT PANEL (BLUE BRANDED SECTION)  
+================================================================================
+
+Background:  
+- Primary Color: #0066FF (bright blue)  
+- Pattern: Abstract network/connection illustration  
+- Design Elements: Circles and connecting lines in darker blue shades  
+- Style: Gradient overlay with geometric shapes
+
+Branding Elements:  
+- Logo: White network/node icon (star-burst pattern with connected dots)  
+- Main Title: "Discovery Platform" (large, white, bold)  
+- Subtitle: "Powered by CHANGEPOND" (smaller, white)  
+- Position: Top-left area of blue panel
+
+================================================================================  
+3. RIGHT PANEL (LOGIN FORM SECTION)  
+================================================================================
+
+3.1 HEADER SECTION  
+------------------  
+- Logo: Blue network icon (matching left panel design)  
+- Title: "Discovery Platform"  
+- Subtitle: "Powered by CHANGEPOND"  
+- Main Heading: "Login" (large, dark text, centered)  
